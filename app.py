@@ -52,6 +52,8 @@ def index():
     USERNAME = json_obj['name']
     FILENAME = json_obj['email'][:json_obj['email'].index('@')]
     FILENAME = str(FILENAME) + '.csv'
+    with open('json_data_example.txt', 'w') as outfile:
+        json.dump(json_obj, outfile)
     return render_template('home.html')
 
 
