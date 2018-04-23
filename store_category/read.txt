@@ -1,0 +1,1 @@
+Here is an example of finding the category of the store by its name
