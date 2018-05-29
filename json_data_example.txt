@@ -1,1 +1,0 @@
-{"id": "110336905728859290890", "email": "yezerska@ucu.edu.ua", "verified_email": true, "name": "", "given_name": "", "family_name": "", "picture": "https://lh4.googleusercontent.com/-3FUychsBdjY/AAAAAAAAAAI/AAAAAAAAABI/86kcstZZcM8/photo.jpg", "hd": "ucu.edu.ua"}
